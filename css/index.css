@@ -8,6 +8,7 @@ body{
 	color:#383838;
 	font-family: 'Dosis', sans-serif;
 	background:#FAFAFA;
+	overflow-x: hidden
 }
 .margin-b{
 	margin-bottom:120px;}
