@@ -603,6 +603,11 @@ BACK-TO-TOP
 	color:black;
 	font-size: 18px;}
 @media screen and (max-width:415px){
+	main {
+	    width: 100%;
+	    padding: 0;
+	    overflow-x: hidden;
+	}
 	header{
 		display:none;
 	}
