@@ -346,7 +346,7 @@ PRODUCT
 */
 #product{
 	background:#FAFAFA;
-	height:500vh;
+	height:480vh;
 	margin-bottom: 100px;
 	text-align:center;
 }
@@ -509,7 +509,7 @@ CONTACT
 */
 #contact{
 	background:#FAFAFA;
-	height:1500px;
+	height:100vh;
 }
 .lienhe{
 	background:#FFFFFF;}
